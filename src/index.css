@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto:wght@100;300&display=swap');
+
+body {
+  font-size: 14px;
+  background-color: #f1f3f6;
+  color: #212121;
+  line-height: 1.4;
+  font-weight: 500 !important;
+  font-family: 'Quicksand', sans-serif !important;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+footer{
+  background-color: #172337;
+  border-top: 1px solid #ddd;
+  margin-top: 25px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+footer div{
+  color: #fff;
+  font-size: 20px;
+}
