@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/flipkart-demo-web/static/css/main.3d983a4b.css",
+    "main.js": "/flipkart-demo-web/static/js/main.35dd46d8.js",
+    "static/js/787.f8b13686.chunk.js": "/flipkart-demo-web/static/js/787.f8b13686.chunk.js",
+    "static/media/thejourney.png": "/flipkart-demo-web/static/media/thejourney.086ec3d1b2c3b1079816.png",
+    "static/media/infographic.png": "/flipkart-demo-web/static/media/infographic.a23e87c646c962edd470.png",
+    "static/media/fkglobe.png": "/flipkart-demo-web/static/media/fkglobe.d44c326da311a642751a.png",
+    "static/media/sliderImages.webp": "/flipkart-demo-web/static/media/sliderImages.eb0250894364a9e9a252.webp",
+    "static/media/handbag.png": "/flipkart-demo-web/static/media/handbag.d97baf0acbff3f8c334e.png",
+    "static/media/about2header.png": "/flipkart-demo-web/static/media/about2header.052a297766882d2ada21.png",
+    "static/media/fashion.webp": "/flipkart-demo-web/static/media/fashion.9544103f924f3066531c.webp",
+    "static/media/startedheader.png": "/flipkart-demo-web/static/media/startedheader.a5a1b3d9c7ff911eb0eb.png",
+    "static/media/2.webp": "/flipkart-demo-web/static/media/2.dc32070acbbdbdc07dc1.webp",
+    "static/media/toys.webp": "/flipkart-demo-web/static/media/toys.057d2275457af97de570.webp",
+    "static/media/appliances.webp": "/flipkart-demo-web/static/media/appliances.ed1816ca59bae1a751e8.webp",
+    "static/media/electronics.webp": "/flipkart-demo-web/static/media/electronics.5b0a908ea73c43706cd8.webp",
+    "static/media/1.webp": "/flipkart-demo-web/static/media/1.8de5a3694b5d5c2787d9.webp",
+    "static/media/home.webp": "/flipkart-demo-web/static/media/home.f257dfd9e1dca603cbe0.webp",
+    "static/media/mobiles.webp": "/flipkart-demo-web/static/media/mobiles.8d02dfd9c236e80cfdd9.webp",
+    "static/media/travel.webp": "/flipkart-demo-web/static/media/travel.85e98d3273c65a561890.webp",
+    "static/media/casualtshirt.webp": "/flipkart-demo-web/static/media/casualtshirt.bd1f02bbd675ef0db9b8.webp",
+    "static/media/cargopants.webp": "/flipkart-demo-web/static/media/cargopants.5dfe2079924ba8c7d087.webp",
+    "static/media/denim1shirts.webp": "/flipkart-demo-web/static/media/denim1shirts.9a1f410069e2ba7ec1d4.webp",
+    "static/media/invictus.webp": "/flipkart-demo-web/static/media/invictus.0c627539e9d7299cc977.webp",
+    "static/media/metronaut.webp": "/flipkart-demo-web/static/media/metronaut.d44974dca3cc9a85472d.webp",
+    "static/media/cottonkurta.webp": "/flipkart-demo-web/static/media/cottonkurta.8da949c240378105a658.webp",
+    "index.html": "/flipkart-demo-web/index.html",
+    "main.3d983a4b.css.map": "/flipkart-demo-web/static/css/main.3d983a4b.css.map",
+    "main.35dd46d8.js.map": "/flipkart-demo-web/static/js/main.35dd46d8.js.map",
+    "787.f8b13686.chunk.js.map": "/flipkart-demo-web/static/js/787.f8b13686.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d983a4b.css",
+    "static/js/main.35dd46d8.js"
+  ]
+}
