@@ -18,7 +18,7 @@ function Header() {
             <header>
                 <input id="header-toggle" type="checkbox" />
                 <div className="logo10">
-                    <NavLink className="logo" to="/">
+                    <NavLink className="logo" to="/home">
                         <img src={flipkart} alt="flipkart-logo" />
                         <div><i>Explore <span>Plus</span></i><img src={plus1} alt="plus" /></div>
                     </NavLink>
